@@ -1,0 +1,33 @@
+{
+  "name": "Uniswap Default List",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [ 
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Rebasing USD",
+      "address": "0x4200000000000000000000000000000000000022",
+      "symbol": "USDB",
+      "decimals": 18,
+      "chainId": 168587773,
+      "logoURI": ""
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000023",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 168587773,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    }
+  ]
+}
